@@ -1,26 +1,17 @@
 # Boris Bikes
+Simulation for rental, running, and repair of London's Boris Bikes
 
-Program for rental, running, and repair of London's Boris Bikes
+# Focus goals
+Mindful engagement with these challenges helped achieve these goals:
 
-## Getting Started
+I write code that is easy to change
+Writing easy to change software is highly prized amongst developers and employers. By developers because most of a developer's time is spent changing software. By employers because their teams can deliver value to customers faster.
 
-```
-ruby Borisbikes.rb in terminal
-```
+I can test-drive my code
+Tested software is easier to change because you can tell when it's broken just by running a command, even the tricky edge cases.
 
-### Prerequisites
+I can build with objects
+Most code in the world is structured in small pieces called objects. This is done because it is easier to change than having everything in one place.
 
-```
-Terminal, ruby, git
-```
-
-## Authors
-
-* **Simon Cass** - [Simon Cass](https://github.com/scass91)
-* **Georges Le Vaillant** - [GLV](https://github.com/stonefarmer9)
-
-See also the list of [contributors](https://github.com/your/project/contributors) who participated in this project.
-
-## Acknowledgments
-
-* Makers Academy
+I know how my language works
+Understanding your language is important because it helps you reason and communicate about software effectively. This makes your teams more effective, and most software is made by teams.
