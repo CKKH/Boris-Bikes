@@ -26,8 +26,7 @@ describe DockingStation do
       bike = Bike.new
       docking_station = DockingStation.new
       docking_station.dock(bike)
-      #bikes << 20.times.push(Bike.new
-      expect{20.times{docking_station.dock(bike)}}.to raise_error
+      expect{DockingStation::DEFAULT_CAPACITY.times{docking_station.dock(bike)}}.to raise_error
     end
 
     it 'docks something' do
